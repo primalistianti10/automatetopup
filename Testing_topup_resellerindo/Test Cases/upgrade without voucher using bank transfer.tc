@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>upgrade without voucher using bank transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a53a4e39-2d08-4093-9deb-a5f7f64bda37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_keyboard_arrow_down</name>
+   <tag></tag>
+   <elementGuidId>8bc76cd4-0fcc-4a06-9982-4a01d21faee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion1']/div/div/div/div[2]/h4/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.icon-1-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>175b3c32-b04f-4c24-bb35-1c142693cba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons icon-1-down</value>
+      <webElementGuid>d2dcb204-5894-4be5-8d9d-c71c2d7675d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>keyboard_arrow_down</value>
+      <webElementGuid>6577b214-a289-4e33-bf1c-9a618bda1e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion1&quot;)/div[@class=&quot;form-group has-default&quot;]/div[@class=&quot;mt-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/h4[1]/i[@class=&quot;material-icons icon-1-down&quot;]</value>
+      <webElementGuid>2e3362d6-2d46-410a-ab14-04d167ef1b50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion1']/div/div/div/div[2]/h4/i</value>
+      <webElementGuid>9b4dc714-145c-4ddd-a5a3-8870c369f42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::i[1]</value>
+      <webElementGuid>26af9647-127d-4254-869d-f74de865dd13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOUCHER TIDAK DI GUNAKAN'])[1]/following::i[1]</value>
+      <webElementGuid>8b0dc1fd-a317-434b-9f10-d1a45d6c80f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saldo langsung masuk setelah anda transfer'])[1]/preceding::i[1]</value>
+      <webElementGuid>05903324-56bf-4479-be1d-c59f50bd8a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QRIS (DANA, GOPAY, OVO, LINKAJA, SHOPEEPAY)'])[1]/preceding::i[1]</value>
+      <webElementGuid>c4dfa9a0-4dbc-4988-b5b4-32eb63690594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='keyboard_arrow_down']/parent::*</value>
+      <webElementGuid>4ff4023a-e85b-4625-922c-055e3673cc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/i</value>
+      <webElementGuid>9f29a622-4c1a-46de-ae2e-9faf70012f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'keyboard_arrow_down' or . = 'keyboard_arrow_down')]</value>
+      <webElementGuid>5ed639be-79c1-4728-9a6a-a643dc322d5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

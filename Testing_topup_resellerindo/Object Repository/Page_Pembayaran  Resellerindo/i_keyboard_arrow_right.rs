@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_keyboard_arrow_right</name>
+   <tag></tag>
+   <elementGuidId>d1f0e0d6-c50e-4fa4-bd1a-94780dcaa03f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tripay']/div/div/div/div[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-2.img-payment > i.material-icons.icon-1-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c5f25f6d-7db1-40cd-99d6-b5c3c5e180d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons icon-1-down</value>
+      <webElementGuid>5b6dd502-1ae0-4136-a03b-0bbb6bd446de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>keyboard_arrow_right</value>
+      <webElementGuid>fe3a9ba3-163c-4909-8a12-19361fc1b16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tripay&quot;)/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-2 img-payment&quot;]/i[@class=&quot;material-icons icon-1-down&quot;]</value>
+      <webElementGuid>84b8157a-cab5-40a5-87f4-dee65917c7d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tripay']/div/div/div/div[3]/i</value>
+      <webElementGuid>edf2a7c7-1f8b-4fc1-a077-afc7e8b6ba1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fee Rp 750 + 0.70%'])[1]/following::i[1]</value>
+      <webElementGuid>a13e7dbf-74cb-4589-ad62-84ffcfaa69df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QRIS (DANA, GOPAY, OVO, LINKAJA, SHOPEEPAY)'])[1]/following::i[1]</value>
+      <webElementGuid>ba19d1e7-b134-4c4c-85d2-20f9b979e95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALFAMART'])[1]/preceding::i[1]</value>
+      <webElementGuid>78979382-9869-4c63-a7f4-f26d6d05a279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fee Rp 1.500'])[1]/preceding::i[1]</value>
+      <webElementGuid>4d3d2637-d4f9-4969-b24b-1b19d7f394ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='keyboard_arrow_right']/parent::*</value>
+      <webElementGuid>6e3fe19b-89f0-49bd-8740-2cfeef48fc88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>bf75af0f-4d65-40e0-85c1-0d09a6a4cbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'keyboard_arrow_right' or . = 'keyboard_arrow_right')]</value>
+      <webElementGuid>e1120500-d6ce-484f-a569-a37c7bc36c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

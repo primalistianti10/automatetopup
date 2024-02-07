@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Gunakan Voucher</name>
+   <tag></tag>
+   <elementGuidId>fba1df51-4a39-4b0d-8e09-70aa723c84e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@onclick='swal_voucher()'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body > div > div.row > div.col-6 > h4.icon_button_modal.btn.btn-rose.text-rose</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>efad89bb-7c2a-40ed-8d1e-3327aa24fef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_button_modal btn btn-rose text-rose</value>
+      <webElementGuid>aedd9bbd-80f8-4022-a706-cfb4c1f6ddab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>swal_voucher()</value>
+      <webElementGuid>0cbcee88-41f5-4744-a8aa-f04ff0bb2471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gunakan Voucher</value>
+      <webElementGuid>a1bab6ff-7b2e-4d74-8daa-c52e2d1c4907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal_switch_payment&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/h4[@class=&quot;icon_button_modal btn btn-rose text-rose&quot;]</value>
+      <webElementGuid>5dde1d6a-b3a2-4f67-a27f-80d0a48ef7e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@onclick='swal_voucher()'])[2]</value>
+      <webElementGuid>a0decbb7-8835-4e24-a565-2f86fce83845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal_switch_payment']/div/div/div[2]/div/div/div[2]/h4</value>
+      <webElementGuid>99fe98fc-e591-49e6-990a-f9c5f1663af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Pembayaran'])[1]/following::h4[1]</value>
+      <webElementGuid>e9c4c79c-c462-4b43-a1ce-425ae0f90180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Pembayaran'])[2]/preceding::h4[1]</value>
+      <webElementGuid>26435a75-fe4a-45a4-8496-14e75df14a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/preceding::h4[2]</value>
+      <webElementGuid>10629d2f-6c3e-476c-b16f-57bb682696fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/h4</value>
+      <webElementGuid>4fd16fe5-7179-4be2-a38c-1736e4887818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Gunakan Voucher' or . = 'Gunakan Voucher')]</value>
+      <webElementGuid>316b9262-e262-4431-8f3d-5e4e86ee2e7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

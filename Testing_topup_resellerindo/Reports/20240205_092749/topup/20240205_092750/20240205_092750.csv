@@ -1,0 +1,69 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+topup,Chrome 121.0.0.0,,,2024-02-05 09:27:58,2024-02-05 09:31:22,3m - 23.279s,FAILED
+,,,,,,,
+Test Cases/topup without voucher,Chrome 121.0.0.0,,,2024-02-05 09:27:59,2024-02-05 09:28:50,51.003s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-05 09:27:59,2024-02-05 09:28:01,2.201s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-05 09:28:01,2024-02-05 09:28:03,1.732s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-05 09:28:03,2024-02-05 09:28:04,1.258s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-05 09:28:04,2024-02-05 09:28:05,0.457s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-05 09:28:05,2024-02-05 09:28:05,0.647s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-05 09:28:05,2024-02-05 09:28:10,5.098s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-05 09:28:10,2024-02-05 09:28:11,0.846s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-05 09:28:11,2024-02-05 09:28:12,0.915s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Tambah Saldo""))",Chrome 121.0.0.0,,,2024-02-05 09:28:12,2024-02-05 09:28:16,3.418s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/input_Rp_nominal""), ""10000"")",Chrome 121.0.0.0,,,2024-02-05 09:28:16,2024-02-05 09:28:16,0.725s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-05 09:28:16,2024-02-05 09:28:17,0.515s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_down""))",Chrome 121.0.0.0,,,2024-02-05 09:28:17,2024-02-05 09:28:17,0.593s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_right""))",Chrome 121.0.0.0,,,2024-02-05 09:28:17,2024-02-05 09:28:18,0.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Lanjutkan Step Selanjutnya""))",Chrome 121.0.0.0,,,2024-02-05 09:28:18,2024-02-05 09:28:49,31.131s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-05 09:28:49,2024-02-05 09:28:50,0.700s,PASSED
+,,,,,,,
+Test Cases/topup with voucher,Chrome 121.0.0.0,,,2024-02-05 09:28:50,2024-02-05 09:29:44,53.924s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-05 09:28:50,2024-02-05 09:28:51,1.099s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-05 09:28:51,2024-02-05 09:28:53,1.726s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-05 09:28:53,2024-02-05 09:28:54,1.002s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-05 09:28:54,2024-02-05 09:28:54,0.395s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-05 09:28:54,2024-02-05 09:28:54,0.349s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-05 09:28:54,2024-02-05 09:29:00,5.049s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-05 09:29:00,2024-02-05 09:29:01,1.435s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-05 09:29:01,2024-02-05 09:29:02,0.813s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Tambah Saldo""))",Chrome 121.0.0.0,,,2024-02-05 09:29:02,2024-02-05 09:29:04,1.966s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/input_Rp_nominal""), ""12000"")",Chrome 121.0.0.0,,,2024-02-05 09:29:04,2024-02-05 09:29:04,0.717s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-05 09:29:04,2024-02-05 09:29:05,0.472s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/h4_Gunakan Voucher""))",Chrome 121.0.0.0,,,2024-02-05 09:29:05,2024-02-05 09:29:06,0.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/div_Gunakan VoucherCOBABonus  20COBA""))",Chrome 121.0.0.0,,,2024-02-05 09:29:06,2024-02-05 09:29:06,0.804s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_down""))",Chrome 121.0.0.0,,,2024-02-05 09:29:06,2024-02-05 09:29:12,5.302s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_right""))",Chrome 121.0.0.0,,,2024-02-05 09:29:12,2024-02-05 09:29:12,0.591s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Lanjutkan Step Selanjutnya""))",Chrome 121.0.0.0,,,2024-02-05 09:29:12,2024-02-05 09:29:44,31.342s,FAILED
+,,,,,,,
+Test Cases/topup with tripay,Chrome 121.0.0.0,,,2024-02-05 09:29:44,2024-02-05 09:30:33,48.997s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-05 09:29:44,2024-02-05 09:29:46,1.796s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-05 09:29:46,2024-02-05 09:29:48,1.881s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-05 09:29:48,2024-02-05 09:29:49,1.069s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-05 09:29:49,2024-02-05 09:29:49,0.392s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-05 09:29:49,2024-02-05 09:29:49,0.363s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-05 09:29:49,2024-02-05 09:29:54,4.990s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-05 09:29:54,2024-02-05 09:29:56,1.522s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-05 09:29:56,2024-02-05 09:29:57,0.913s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Tambah Saldo""))",Chrome 121.0.0.0,,,2024-02-05 09:29:57,2024-02-05 09:29:59,1.860s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/input_Rp_nominal""), ""15000"")",Chrome 121.0.0.0,,,2024-02-05 09:29:59,2024-02-05 09:29:59,0.775s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-05 09:29:59,2024-02-05 09:30:00,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_down""))",Chrome 121.0.0.0,,,2024-02-05 09:30:00,2024-02-05 09:30:01,0.702s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_right""))",Chrome 121.0.0.0,,,2024-02-05 09:30:01,2024-02-05 09:30:01,0.519s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Lanjutkan Step Selanjutnya""))",Chrome 121.0.0.0,,,2024-02-05 09:30:01,2024-02-05 09:30:33,31.514s,FAILED
+,,,,,,,
+Test Cases/topup with bank transfer,Chrome 121.0.0.0,,,2024-02-05 09:30:33,2024-02-05 09:31:22,49.122s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-05 09:30:33,2024-02-05 09:30:35,1.797s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-05 09:30:35,2024-02-05 09:30:36,1.573s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-05 09:30:36,2024-02-05 09:30:37,0.963s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-05 09:30:37,2024-02-05 09:30:38,0.386s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-05 09:30:38,2024-02-05 09:30:38,0.412s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-05 09:30:38,2024-02-05 09:30:43,4.996s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-05 09:30:43,2024-02-05 09:30:44,1.439s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-05 09:30:44,2024-02-05 09:30:45,0.777s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Tambah Saldo""))",Chrome 121.0.0.0,,,2024-02-05 09:30:45,2024-02-05 09:30:48,2.575s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/input_Rp_nominal""), ""10000"")",Chrome 121.0.0.0,,,2024-02-05 09:30:48,2024-02-05 09:30:48,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-05 09:30:48,2024-02-05 09:30:49,0.476s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_down""))",Chrome 121.0.0.0,,,2024-02-05 09:30:49,2024-02-05 09:30:50,1.116s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/i_keyboard_arrow_right""))",Chrome 121.0.0.0,,,2024-02-05 09:30:50,2024-02-05 09:30:51,0.489s,PASSED
+"click(findTestObject(""Object Repository/Page_Pembayaran  Resellerindo/button_Lanjutkan Step Selanjutnya""))",Chrome 121.0.0.0,,,2024-02-05 09:30:51,2024-02-05 09:31:22,31.233s,FAILED
